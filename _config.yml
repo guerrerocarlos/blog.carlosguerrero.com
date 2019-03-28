@@ -19,20 +19,28 @@ plugins:
   - jekyll-seo-tag
   
 authors:
+    carlos:
+      name:           Jane
+      site:           https://www.carlosguerrero.com
+      avatar:         https://avatars2.githubusercontent.com/u/82532?s=100
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          guerrerocarlos@gmail.com
+      twitter:        https://twitter.com/guerrerocarlos
+
     sal:
       name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
+      site:           https://www.carlosguerrero.com
+      avatar:         https://avatars2.githubusercontent.com/u/82532?s=100
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
+      email:          guerrerocarlos@gmail.com
       twitter:        https://twitter.com/wowthemesnet
 
     jane:
       name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
+      site:           https://www.carlosguerrero.com
+      avatar:         https://avatars2.githubusercontent.com/u/82532?s=100
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
+      email:          guerrerocarlos@gmail.com
       twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
