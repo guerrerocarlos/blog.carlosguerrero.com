@@ -1,10 +1,10 @@
 # Site
-name: 'CarlosGuerrero'
+name: 'Carlos Guerrero'
 description: 'Just some articles and random rants.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: 'Carlos Guerrero\'s Blog'
+disqus: 'blog.carlosguerrero.com'
 email: 'guerrerocarlos@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
